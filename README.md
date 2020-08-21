@@ -15,7 +15,7 @@ and <a href='https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-ref
 <p>The WrapI2C.c has a hard set timeout. The example is set with the GPIO, speed, ... that I was using.</p>
 <h2>The purpose</h2>
 <p>Clearly I did not spend much/any time to clean and test this as a stand alone solution. The purpose is just to give a little boost. 
-    I wasted a good amount of time searching for a ready made solution and then trouble shooting the wrapper without a scope. Really any  
+    I wasted a good amount of time searching for a ready made solution and trouble shooting the wrapper without a scope. Really any  
     problems you run into due to something I forgot should be small ie pointing include paths or a definition</p>
 
 <p>The best of luck</p>
